@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Academy</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_compass">Compass</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="confirm_button">Confirm</string>
+    <string name="compass_north">North</string>
+    <string name="compass_east">East</string>
+    <string name="compass_south">South</string>
+    <string name="compass_west">West</string>
+
+</resources>
